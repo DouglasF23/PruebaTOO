@@ -1,0 +1,40 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10-05-2014, 02:25:29 PM
+    Author     : Douglas
+*/
+
+a:hover{background-color: red;
+        text-transform: uppercase;
+        color: white; }
+
+h1{
+    font-family: courier,arial;
+    font-style: italic;
+    color: #0B0B61;
+}
+table{
+    background-color: #0B0B61;
+}
+
+form{
+    border-style: solid;
+    border-color: #990000;
+    
+}
+
+input{
+    border-color: #0B0B61;
+    border-style: double;
+    box-shadow: inset;
+    border-radius: 10%;
+   
+}
+h6{
+    font-family: arial;
+    font-style: inherit;
+}
